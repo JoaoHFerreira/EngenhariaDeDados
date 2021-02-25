@@ -6,3 +6,4 @@
 * `git checkout -B $WORK_BRANCH`: Cria novo ramo(branch) de desenvolvimento;
 * `git branch -D master`: Faz remoção do antigo ramo mestre;
 * `git checkout upstream/master -b master`: Faz o apontamento do seu ramo *master* para o *master* da origem.
+* `git checkout -B nome_da_branch`: Criar uma nova branch baseada na main com um novo nome de minha escolha.
